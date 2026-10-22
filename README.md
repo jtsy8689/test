@@ -6,4 +6,3 @@
 ## EP02 | Geländedarstellung II
 Relief Tschechien
 
-
