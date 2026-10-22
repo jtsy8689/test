@@ -5,9 +5,7 @@
 
 ## EP02 | Geländedarstellung II
 Relief Tschechien
-git add ReliefTschechien_SM.png
-git commit -m "Reliefkarte Tschechien in Originalgröße hinzugefügt"
-git push
 
+<img src="ReliefTschechien_SM.png" width="800" alt="Reliefkarte Tschechien SM" />
 https://github.com/jtsy8689/test/blob/main/ReliefTschechien.png?raw=true
 
