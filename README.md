@@ -6,12 +6,11 @@
 
 ### 3D-Reliefanalyse eines Stratovulkans
 
-Diese Arbeit befasst sich mit der digitalen Geländedarstellung des mexikanischen Stratovulkans Nevado de Toluca auf Basis hochauflösender Höhendaten (DEM/DHM). Durch die Kombination aus hypsometrischer Farbgebung und präziser Schattierung (Hillshading) werden die steilen Kraterränder, erodierten Flanken sowie die komplexen Entwässerungsstrukturen der Vulkanlandschaft plastisch hervorgehoben.
+Diese Arbeit befasst sich mit der digitalen Geländedarstellung des mexikanischen Stratovulkans Nevado de Toluca. Ziel war es, die prägnanten Höhenunterschiede zwischen der Geländebasis auf rund 1.865 Metern und den hochgelegenen Gipfelregionen bei 4.665 Metern plastisch herauszuarbeiten.
 
 ### Methodische Umsetzung:
 
-Das digitale Höhenmodell wurde aufbereitet, um feine geomorphologische Strukturen sichtbar zu machen. Die feingliedrige Farb- und Schattierungskombination ermöglicht eine anschauliche Visualisierung der Höhenschichten und Geländeformen, ohne dass Höhenlinien das Gesamtbild überlagern.
-
+Das digitale Höhenraster wurde mit einem durchgehenden Hypsometrie-Farbverlauf symbolisiert, der von satten Grüntönen in den Niederungen bis zu hellen Ockertönen in den Hochlagen reicht. Durch die Überlagerung mit einer eigenständig berechneten Standard-Schummerung treten Hangneigungen, Felsgratstrukturen und die tiefen Kraterränder der Vulkanlandschaft anschaulich hervor.
 
 ## EP02 | Geländedarstellung II
 
@@ -21,10 +20,10 @@ Das digitale Höhenmodell wurde aufbereitet, um feine geomorphologische Struktur
 
 ### Plastische Reliefvisualisierung der tschechischen Topografie
 
-Die Karte zeigt eine freigestellte Reliefdarstellung der Republik Tschechien. Im Fokus steht die deutliche Ausprägung der geografischen Kesselstruktur – umrahmt von den Mittelgebirgszügen wie dem Böhmerwald, dem Erzgebirge und den Sudeten im Gegensatz zum flacheren Binnenland.
+Die Karte zeigt eine freigestellte Reliefdarstellung der Republik Tschechien im Imhof-Stil. Im Fokus steht die deutliche Ausprägung der geografischen Kesselstruktur – umrahmt von den Mittelgebirgszügen wie dem Böhmerwald, dem Erzgebirge und den Sudeten im Gegensatz zum flacheren Binnenland.
 
 ### Methodische Umsetzung:
 
-Als Datengrundlage dienten Höhendaten aus dem ESRI Living Atlas. Über eine präzise Maskierung an den Staatsgrenzen und eine abgestimmte Kombination aus Geländeschattierung, sanfter Höhenhypsometrie und freigestelltem Schattenwurf wird ein starker Dreidimensionalitätseffekt erzielt, der die Landschaftsräume auf einen Blick erfassbar macht.
+Auf Basis von Höhendaten und Ländergrenzen aus dem ESRI Living Atlas wurde das Projekt in ArcGIS Pro in einer flächentreuen Lambert-Projektion angelegt. Über Spatial-Analyst-Tools wurden die Neigung und mehrstufige Schummerungen berechnet. Durch die feine Kombination aus DEM-Hypsometrie im Mist-Farbband, transparentem Neigungs-Layer und multispektraler Schummerung sowie einer dunklen Hintergrundmaskierung entsteht ein starker Dreidimensionalitätseffekt im finalen Layout.
 
 
