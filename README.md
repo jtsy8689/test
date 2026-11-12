@@ -26,4 +26,8 @@ Die Karte zeigt eine freigestellte Reliefdarstellung der Republik Tschechien im 
 
 Auf Basis von Höhendaten und Ländergrenzen aus dem ESRI Living Atlas wurde das Projekt in ArcGIS Pro in einer flächentreuen Lambert-Projektion angelegt. Über Spatial-Analyst-Tools wurden die Neigung und mehrstufige Schummerungen berechnet. Durch die feine Kombination aus DEM-Hypsometrie im Mist-Farbband, transparentem Neigungs-Layer und multispektraler Schummerung sowie einer dunklen Hintergrundmaskierung entsteht ein starker Dreidimensionalitätseffekt im finalen Layout.
 
+<img width="1171" height="922" alt="image" src="https://github.com/user-attachments/assets/dc18919d-ad49-4b6b-8c49-2ac80682e350" />
+
+<img width="1171" height="922" alt="image" src="https://github.com/user-attachments/assets/7ccf71e0-8d07-4c38-b27c-a0d5fbf43812" />
+
 
