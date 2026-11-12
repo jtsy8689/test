@@ -26,6 +26,20 @@ Die Karte zeigt eine freigestellte Reliefdarstellung der Republik Tschechien im 
 
 Auf Basis von Höhendaten und Ländergrenzen aus dem ESRI Living Atlas wurde das Projekt in ArcGIS Pro in einer flächentreuen Lambert-Projektion angelegt. Über Spatial-Analyst-Tools wurden die Neigung und mehrstufige Schummerungen berechnet. Durch die feine Kombination aus DEM-Hypsometrie im Mist-Farbband, transparentem Neigungs-Layer und multispektraler Schummerung sowie einer dunklen Hintergrundmaskierung entsteht ein starker Dreidimensionalitätseffekt im finalen Layout.
 
+## EP03 | Höhenschichten & Isolinien
+
+### Reliefkarte Deutschland
+
+<img width="1576" height="2236" alt="image" src="https://github.com/user-attachments/assets/436307dd-785f-4742-ac96-3df5655bf0f9" />
+
+### Dreigliedrige Topographie von der Küste bis zum Hochgebirge
+
+Die Karte zeigt eine freigestellte Reliefdarstellung der Bundesrepublik Deutschland im Imhof-Stil. Im Fokus steht die charakteristische geomorphologische Dreigliederung des Landes von Nord nach Süd: Vom flachen, küstennahen Norddeutschen Tiefland steigt das Gelände über die stark gegliederte Mittelgebirgsschwelle – mit markanten Zügen wie dem Harz, dem Thüringer Wald, dem Schwarzwald und dem Bayerischen Wald sowie dem tief eingeschnittenen Oberrheingraben – bis hin zum Alpenvorland und dem schroffen Hochgebirgsrelief der Bayerischen Alpen im äußersten Süden an.
+
+### Methodische Umsetzung:
+
+Auf Basis von Höhendaten und Landesgrenzen wurde das Projekt in ArcGIS Pro angelegt. Das digitale Höhenmodell wurde mit einem durchgehenden Hypsometrie-Farbverlauf im Nebel-Farbband symbolisiert, der sanft von kühlen Blaugrüntönen im Tiefland über helle Grüntöne bis zu warmen Ocker- und Brauntönen in den Gebirgslagen reicht. Durch die Kombination mit einem transparenten Neigungs-Layer, einer mehrstufigen Schummerung sowie einer abgedunkelten Hintergrundmaskierung für die Nachbarstaaten tritt die plastische Reliefstruktur Deutschlands deutlich hervor.
+
 ## EP05 | Illuminated Choropleth Maps (Illuminierte 2D-Flächenkarte)
 
 ### Plastische 2.5D-Visualisierung sozialer Indikatoren
