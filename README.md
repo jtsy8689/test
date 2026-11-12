@@ -29,9 +29,9 @@ Auf Basis von Höhendaten und Ländergrenzen aus dem ESRI Living Atlas wurde das
 ## EP05 | Illuminated Choropleth Maps (Illuminierte 2D-Flächenkarte)
 
 ### Plastische 2.5D-Visualisierung sozialer Indikatoren
-### Beleuchtete Flächenkarte zur Arbeitslosigkeit in Berlin (MSS 2025)
-<img width="1171" height="922" alt="image" src="https://github.com/user-attachments/assets/dc18919d-ad49-4b6b-8c49-2ac80682e350" />
 
+<img width="1171" height="922" alt="image" src="https://github.com/user-attachments/assets/dc18919d-ad49-4b6b-8c49-2ac80682e350" />
+### Beleuchtete Flächenkarte zur Arbeitslosigkeit in Berlin (MSS 2025)
 Diese Arbeit zeigt eine illuminierte Choroplethenkarte (Illuminated Choropleth Map) der Berliner Planungsräume auf Basis des Datensatzes Berlin LOR MSS 2025. Dargestellt ist der Status-Indikator S1 (Arbeitslosenquote in Prozent), der die räumliche Verteilung der Erwerbslosigkeit im Stadtgebiet abbildet: Während helle Cremetöne Gebiete mit sehr geringer Arbeitslosigkeit (ab 0,6 %) markieren, heben kräftige Orangetöne bis hin zu dunklem Rot Brennpunkte mit Werten von bis zu 16,9 % hervor.  
 
 ### Methodische Umsetzung: 
@@ -41,10 +41,9 @@ Auf Basis der administrativen LOR-Polygondaten wurde das Attribut S1 in fünf Kl
 ## EP06 | Spike Maps
 
 ### Dreidimensionale Nadelkarte zur Arbeitslosigkeit in Berlin (MSS 2025)
-### Räumliche Verteilung und Intensität sozioökonomischer Kennzahlen
 
 <img width="1171" height="922" alt="image" src="https://github.com/user-attachments/assets/7ccf71e0-8d07-4c38-b27c-a0d5fbf43812" />
-
+### Räumliche Verteilung und Intensität sozioökonomischer Kennzahlen
 Diese Karte visualisiert die räumliche Verteilung und Intensität des Status-Indikators S1 (Arbeitslosenquote in Prozent) im Berliner Stadtgebiet mithilfe einer Spike Map. Anstelle reiner Flächeneinfärbungen werden die Werte der einzelnen Planungsräume durch vertikale, spitz zulaufende Nadeln dargestellt: Flache, gelbe Spitzen stehen für niedrige Quoten (ab 0,6 %), während hohe, rötlich leuchtende Spikes lokale Konzentrationen und Spitzenwerte (bis 16,9 %) im Stadtbild unmittelbar sichtbar machen.
 
 ### Methodische Umsetzung:
